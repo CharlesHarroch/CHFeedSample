@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (3.3.1)
+  - AlamofireImage (2.4.0):
+    - Alamofire (~> 3.3)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - SwiftDate (3.0.8)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3)
+  - AlamofireImage (~> 2.4)
+  - MagicalRecord (~> 2.3)
+  - SwiftDate (~> 3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  SwiftDate: 971f8b9394f664f2226b9c3ab64e801a7291c612
+
+COCOAPODS: 0.39.0
